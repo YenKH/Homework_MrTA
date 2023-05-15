@@ -1,0 +1,6 @@
+2023-01-01,Ngân hàng TMCP Quân Đội,Tiền gửi tại quầy,6 tháng,5.6,
+2023-01-01,Ngân hàng TMCP Hàng Hải,Tiền gửi Online,6 tháng,8.1,
+2023-01-01,Ngân hàng TMCP Quốc Dân,Tiền gửi tại quầy,6 tháng,9.1,
+2023-02-12,Ngân hàng TMCP Quân Đội,Tiền gửi tại quầy,6 tháng,5.6,
+2023-03-31,Ngân hàng TMCP Hàng Hải,Tiền gửi Online,6 tháng,8.1,
+2023-04-15,Ngân hàng TMCP Quốc Dân,Tiền gửi tại quầy,6 tháng,9.1,
